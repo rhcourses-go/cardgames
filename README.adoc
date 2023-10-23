@@ -1,0 +1,6 @@
+= Kartenspiele
+
+In diesem Repo befindet sich eine einfache Implementierung eines Kartenspiels,
+welches mit der Konsole gespielt werden kann.
+
+Ziel ist es, die Verwendung eigener Datentypen zu demonstrieren und zu üben.
